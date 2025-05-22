@@ -1,2 +1,2 @@
 ## Hello git
-- adding from the buld branch
+- adding from the build branch
